@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\restart.cs">
+    <Files>
+      <File FileName="Assets\restart.cs" Line="14" Column="4" />
+      <File FileName="Assets\FollowUV.cs" Line="1" Column="1" />
+      <File FileName="Assets\SimplySpaceship.cs" Line="1" Column="1" />
+      <File FileName="Assets\Spawner.cs" Line="9" Column="45" />
+      <File FileName="Assets\Spaceship.cs" Line="119" Column="29" />
+      <File FileName="Assets\HomingMissile.cs" Line="37" Column="7" />
+      <File FileName="Assets\destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameControllerScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
